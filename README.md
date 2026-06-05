@@ -1,5 +1,21 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗      ██╗    ███████╗███████╗ ██████╗                  ║
+║   ██╔══██╗     ██║    ██╔════╝██╔════╝██╔════╝                  ║
+║   ██████╔╝     ██║    ███████╗█████╗  ██║                       ║
+║   ██╔══██╗██   ██║    ╚════██║██╔══╝  ██║                       ║
+║   ██║  ██║╚█████╔╝    ███████║███████╗╚██████╗                  ║
+║   ╚═╝  ╚═╝ ╚════╝     ╚══════╝╚══════╝ ╚═════╝                  ║
+║                                                                  ║
+║          CLOUD SECURITY ENGINEER  |  CISSP · OSCP · SC-200      ║
+║          AWS · AZURE · GCP  |  ZERO TRUST · CSPM · SIEM         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 ###
@@ -255,19 +271,3 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 <table>
   <tr>
     <td>🏫</td>
-    <td><strong>Quinnipiac University</strong></td>
-    <td>M.S. Cybersecurity · GPA 3.87</td>
-    <td>2024 – 2025 · Hamden, CT</td>
-  </tr>
-</table>
-
-###
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj-1819&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-1819&layout=compact&theme=dark&hide_border=true" height="150" alt="languages" />
-</div>
