@@ -25,21 +25,23 @@
 ###
 
 <h1 align="center">Hey there 👋 I'm Rajkumar Jangam</h1>
-<h3 align="center">Cyber Security Engineer · Hamden, CT</h3>
+<h3 align="center">Cloud Security Engineer · Hamden, CT</h3>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-Cyber Security Engineer with <strong>4+ years of experience</strong> in Security Operations, Incident Response, Threat Hunting, Vulnerability Management, and Cloud Security. Currently a Senior Cyber Security Engineer at <strong>Aetna, Inc.</strong>, previously at <strong>Bridgewater Associates</strong>. M.S. in Cybersecurity from Quinnipiac University (GPA 3.87).<br><br>
+Cloud Security Engineer with <strong>4+ years of experience</strong> across Cloud Security Engineering, Security Operations, Detection Engineering, Incident Response, Vulnerability Management, and DevSecOps. Currently a Cloud Security Engineer at <strong>Aetna, Inc.</strong>, previously at <strong>Lincoln Financial Group</strong> and <strong>TCS</strong>. M.S. in Cybersecurity from Quinnipiac University (GPA 3.87).<br><br>
 
-- 🏢 <strong>Senior Cyber Security Engineer</strong> — Aetna, Inc., Hartford CT (Jul 2025 – Present)<br>
-- 🏢 <strong>Cyber Security Engineer</strong> — Bridgewater Associates, Westport CT (Apr 2024 – Jun 2025)<br>
+- 🏢 <strong>Cloud Security Engineer</strong> — Aetna, Inc., Hartford CT (Feb 2026 – Present)<br>
+- 🏢 <strong>Security Analyst</strong> — Lincoln Financial Group, Radnor PA (Jul 2024 – Dec 2025)<br>
+- 🏢 <strong>SOC Analyst</strong> — Tata Consultancy Services, Mumbai India (Jun 2021 – Dec 2023)<br>
 - 🎓 <strong>M.S. Cybersecurity</strong> — Quinnipiac University, Connecticut (GPA 3.87, 2025)<br>
-- 🛡️ Holds <strong>CISSP, AWS Security Specialty, GCP Professional Security Engineer, CEH, CompTIA CySA+</strong><br>
-- 📊 Managed <strong>10,000+ endpoints</strong>, triaged <strong>500+ daily alerts</strong>, achieved <strong>35% MTTR reduction</strong><br>
-- 🔐 Expertise in SIEM, EDR/XDR, Zero Trust, IAM/PAM, DevSecOps, and Cloud Security<br>
+- 🛡️ Holds <strong>CISSP, OSCP, AWS Security Specialty, AWS Solutions Architect, Microsoft SC-200, CEH, CompTIA Security+, CompTIA CySA+</strong><br>
+- ☁️ Managing cloud workloads across <strong>AWS, Azure, and GCP</strong> with CSPM, CNAPP, CWPP, Prisma Cloud, and Wiz<br>
+- 📊 Remediated <strong>500+ cloud vulnerabilities</strong>, achieved <strong>95% CVE fix within 72 hours</strong>, reduced misconfigurations by <strong>45%</strong><br>
+- 🔐 Expertise in Zero Trust, CSPM, SIEM, EDR/XDR, IAM/PAM, DevSecOps, and Detection Engineering<br>
 - ⚡ Builder of real-time ML-powered phishing detection systems and Home SOC labs
 </p>
 
@@ -70,11 +72,11 @@ Cyber Security Engineer with <strong>4+ years of experience</strong> in Security
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="30" alt="sentinel" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30" alt="wireshark" />
+  <img src="https://img.shields.io/badge/Prisma_Cloud-00ADEF?style=for-the-badge&logoColor=white" height="30" alt="prismacloud" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Wiz-00B4D8?style=for-the-badge&logoColor=white" height="30" alt="wiz" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" height="30" alt="burpsuite" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" height="30" alt="metasploit" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Nessus-00BFFF?style=for-the-badge&logoColor=white" height="30" alt="nessus" />
   <img width="12" />
@@ -89,22 +91,26 @@ Cyber Security Engineer with <strong>4+ years of experience</strong> in Security
 
 <div align="left">
 
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-F39C12?style=flat-square&logoColor=white)
+![CSPM](https://img.shields.io/badge/CSPM-0078D4?style=flat-square&logoColor=white)
+![CNAPP](https://img.shields.io/badge/CNAPP-00ADEF?style=flat-square&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-000000?style=flat-square&logoColor=white)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-E74C3C?style=flat-square&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-FF6B6B?style=flat-square&logoColor=white)
 ![SOC Operations](https://img.shields.io/badge/SOC_Operations-0078D4?style=flat-square&logoColor=white)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-E74C3C?style=flat-square&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-8E44AD?style=flat-square&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-FF8C00?style=flat-square&logoColor=white)
 ![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-6A0DAD?style=flat-square&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-2ECC71?style=flat-square&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-000000?style=flat-square&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-F39C12?style=flat-square&logoColor=white)
 ![EDR/XDR](https://img.shields.io/badge/EDR/XDR-1ABC9C?style=flat-square&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-3498DB?style=flat-square&logoColor=white)
 ![IAM / PAM](https://img.shields.io/badge/IAM_/_PAM-C0392B?style=flat-square&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
 ![AWS Security](https://img.shields.io/badge/AWS_Security-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-34495E?style=flat-square&logoColor=white)
+![NIST 800-53](https://img.shields.io/badge/NIST_800--53-34495E?style=flat-square&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA-8E44AD?style=flat-square&logoColor=white)
 ![PCI-DSS](https://img.shields.io/badge/PCI--DSS-27AE60?style=flat-square&logoColor=white)
+![LLM Security](https://img.shields.io/badge/LLM_Security-FF6B35?style=flat-square&logoColor=white)
+![GenAI Security](https://img.shields.io/badge/GenAI_Security-7B2FBE?style=flat-square&logoColor=white)
 
 </div>
 
@@ -118,14 +124,15 @@ Cyber Security Engineer with <strong>4+ years of experience</strong> in Security
 
 | Metric | Achievement |
 |--------|------------|
-| 🖥️ Endpoints Managed | 10,000+ devices secured across enterprise |
-| 🚨 Daily Alerts Triaged | 500+ alerts per day across SIEM platforms |
-| ⚡ MTTR Reduction | 35% reduction in Mean Time to Respond |
-| 🛡️ CVE Remediation | 95% of critical CVEs resolved within 72 hours |
-| 🔒 Patient Records Protected | 2M+ records with zero data-loss incidents |
-| 💰 Financial Infrastructure | $150B+ AUM protected at Bridgewater Associates |
-| 🤖 Automation Scripts | 15+ Python/PowerShell scripts saving 20+ hrs/week |
-| 👥 Team Leadership | Mentored 4 junior security analysts |
+| ☁️ Cloud Misconfigurations Reduced | 45% reduction across AWS, Azure, and GCP at Aetna |
+| 🛡️ Cloud Vulnerabilities Remediated | 500+ cloud vulns fixed across containerized workloads |
+| ⚡ CVE Remediation | 95% of critical CVEs resolved within 72 hours |
+| 🔒 Patient Records Protected | 2M+ records with zero data-loss incidents at Aetna |
+| 🚨 Daily Alerts Triaged | 400+ daily alerts at Lincoln Financial Group |
+| 📉 MTTR Reduction | 30% reduction at Lincoln Financial Group |
+| 🎯 False Positive Reduction | 40% reduction via SIEM rule tuning and UEBA |
+| 🤖 Automation Savings | 25+ engineering hours saved per week |
+| 👥 Team Leadership | Mentored 3 junior SOC analysts across 12-person team |
 
 </div>
 
@@ -138,27 +145,21 @@ Cyber Security Engineer with <strong>4+ years of experience</strong> in Security
 <table>
   <tr>
     <td>🏢</td>
-    <td><strong>Senior Cyber Security Engineer</strong></td>
+    <td><strong>Cloud Security Engineer</strong></td>
     <td>Aetna, Inc. · Hartford, CT</td>
-    <td>Jul 2025 – Present</td>
+    <td>Feb 2026 – Present</td>
   </tr>
   <tr>
     <td>🏢</td>
-    <td><strong>Cyber Security Engineer</strong></td>
-    <td>Bridgewater Associates · Westport, CT</td>
-    <td>Apr 2024 – Jun 2025</td>
+    <td><strong>Security Analyst</strong></td>
+    <td>Lincoln Financial Group · Radnor, PA</td>
+    <td>Jul 2024 – Dec 2025</td>
   </tr>
   <tr>
     <td>🏢</td>
-    <td><strong>Security Engineer</strong></td>
-    <td>NABARD · Mumbai, India</td>
-    <td>Nov 2022 – Dec 2023</td>
-  </tr>
-  <tr>
-    <td>🏢</td>
-    <td><strong>Information Security Engineer</strong></td>
-    <td>GTL Limited · Mumbai, India</td>
-    <td>May 2021 – Oct 2022</td>
+    <td><strong>SOC Analyst</strong></td>
+    <td>Tata Consultancy Services (TCS) · Mumbai, India</td>
+    <td>Jun 2021 – Dec 2023</td>
   </tr>
 </table>
 
@@ -222,7 +223,7 @@ Cyber Security Engineer with <strong>4+ years of experience</strong> in Security
   <tr>
     <td>☁️</td>
     <td><strong>AWS Cloud Security Lab</strong></td>
-    <td>Configured IAM roles, hardened EC2 instances with VPC segmentation, KMS encryption, CloudTrail logging and GuardDuty</td>
+    <td>Configured IAM roles, hardened EC2 instances with VPC segmentation, KMS encryption, CloudTrail logging and GuardDuty threat detection</td>
   </tr>
 </table>
 
@@ -235,9 +236,12 @@ Cyber Security Engineer with <strong>4+ years of experience</strong> in Security
 <div align="left">
 
 ![CISSP](https://img.shields.io/badge/CISSP-1E3A5F?style=for-the-badge&logoColor=white)
+![OSCP](https://img.shields.io/badge/OSCP-E21B1B?style=for-the-badge&logoColor=white)
 ![AWS Security Specialty](https://img.shields.io/badge/AWS_Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP Security Engineer](https://img.shields.io/badge/GCP_Professional_Security_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft SC-200](https://img.shields.io/badge/Microsoft_SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CEH](https://img.shields.io/badge/CEH-E4003A?style=for-the-badge&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA_CySA+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 </div>
