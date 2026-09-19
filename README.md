@@ -39,15 +39,12 @@
 ###
 
 <h1 align="center">Hey there 👋 I'm Rajkumar Jangam</h1>
-<h3 align="center">Cloud Security Engineer · Hartford, CT · Open to Relocate Anywhere in the US</h3>
+<h3 align="center">Cloud Security Engineer · Hartford, CT</h3>
 
 ###
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=raj-1819&color=00e5ff&style=flat-square&label=PROFILE+VIEWS)
-![Open to Work](https://img.shields.io/badge/Open_to_Opportunities-00ff88?style=flat-square&logoColor=white)
-![No Sponsorship Required](https://img.shields.io/badge/No_Sponsorship_Required-0078D4?style=flat-square&logoColor=white)
 
 </div>
 
@@ -406,6 +403,5 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 **🌐 Portfolio:** [raj-1819.github.io/Portfolio](https://raj-1819.github.io/Portfolio/) · **💼 LinkedIn:** [linkedin.com/in/rajkumar-jangam](https://www.linkedin.com/in/rajkumar-jangam-559827228/)
 
-**📍 Hartford, CT · Fully prepared to relocate anywhere in the United States · No sponsorship required**
 
 </div>
