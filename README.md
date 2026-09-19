@@ -69,7 +69,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">⚡ Why Raj Stands Out</h3>
 
@@ -83,7 +82,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 | Healthcare OR financial services | Healthcare at Aetna AND financial services at Lincoln Financial |
 | One cloud security cert | AZ-500 + SC-200 + SC-300 + AWS Security Specialty + AWS SAA |
 
----
 
 ###
 
@@ -110,7 +108,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">🏗️ Enterprise Case Studies</h3>
 
@@ -141,7 +138,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">💼 Work Experience</h3>
 
@@ -170,7 +166,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
@@ -214,7 +209,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">🔐 Cybersecurity Skills</h3>
 
@@ -249,7 +243,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">🚀 Featured Projects</h3>
 
@@ -266,7 +259,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">🔬 Security Labs & Projects</h3>
 
@@ -317,7 +309,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">🎓 Certifications</h3>
 
@@ -341,7 +332,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">🎓 Education</h3>
 
@@ -364,7 +354,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <h3 align="left">📊 GitHub Stats</h3>
 
@@ -395,7 +384,6 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 ###
 
----
 
 <div align="center">
 
