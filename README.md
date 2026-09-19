@@ -55,10 +55,10 @@
 <p align="left">
 Cloud Security Engineer with <strong>4+ years of experience</strong> across Cloud Security Engineering, Security Operations, Detection Engineering, Zero Trust, DevSecOps, and AI Security Governance. Currently a Cloud Security Engineer at <strong>Aetna, Inc.</strong> protecting 2M+ patient records across AWS, Azure, and GCP. Previously at <strong>Lincoln Financial Group</strong> and <strong>TCS</strong>. M.S. in Cybersecurity from Quinnipiac University (GPA 3.87).<br><br>
 
-- 🏢 <strong>Cloud Security Engineer</strong> — Aetna, Inc., Hartford CT (Feb 2026 – Present)<br>
-- 🏢 <strong>Security Analyst</strong> — Lincoln Financial Group, Radnor PA (Jul 2024 – Dec 2025)<br>
-- 🏢 <strong>SOC Analyst</strong> — Tata Consultancy Services, Mumbai India (Jun 2021 – Dec 2023)<br>
-- 🎓 <strong>M.S. Cybersecurity</strong> — Quinnipiac University, Connecticut (GPA 3.87)<br>
+- 🏢 <strong>Cloud Security Engineer</strong> : Aetna, Inc., Hartford CT (Feb 2026 – Present)<br>
+- 🏢 <strong>Security Analyst</strong> : Lincoln Financial Group, Radnor PA (Jul 2024 – Dec 2025)<br>
+- 🏢 <strong>SOC Analyst</strong> : Tata Consultancy Services, Mumbai India (Jun 2021 – Dec 2023)<br>
+- 🎓 <strong>M.S. Cybersecurity</strong> : Quinnipiac University, Connecticut (GPA 3.87)<br>
 - 🛡️ Holds <strong>AZ-500, SC-200, SC-300, AWS Security Specialty, AWS Solutions Architect, CEH, Security+, CySA+</strong><br>
 - 📋 Pursuing <strong>CISSP (Q1 2027)</strong> and <strong>OSCP (Q2 2027)</strong><br>
 - ☁️ Architecting cloud security across <strong>AWS, Azure, and GCP</strong> with CSPM, CNAPP, CWPP, Prisma Cloud, and Wiz<br>
@@ -74,9 +74,9 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 
 | Typical Candidate at This Level | Rajkumar Jangam |
 |---|---|
-| SIEM in one platform | Sentinel + Splunk + QRadar + Chronicle + Elastic — all in production |
+| SIEM in one platform | Sentinel + Splunk + QRadar + Chronicle + Elastic : all in production |
 | Cloud security in one provider | AWS + Azure + GCP simultaneously at enterprise scale |
-| HIPAA or NIST, rarely both | HIPAA, HITECH, HITRUST, PCI-DSS, SOC 2, FedRAMP, NIST — all active |
+| HIPAA or NIST, rarely both | HIPAA, HITECH, HITRUST, PCI-DSS, SOC 2, FedRAMP, NIST : all active |
 | No AI security experience | Built first enterprise AI security governance framework at Aetna |
 | DevSecOps awareness only | Owns 10+ production DevSecOps pipelines with IaC scanning |
 | Healthcare OR financial services | Healthcare at Aetna AND financial services at Lincoln Financial |
@@ -116,22 +116,22 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 <table>
   <tr>
     <td>🔑</td>
-    <td><strong>JML Lifecycle Automation — Eliminating Standing Privilege at Aetna</strong></td>
+    <td><strong>JML Lifecycle Automation : Eliminating Standing Privilege at Aetna</strong></td>
     <td>Designed HRIS-integrated JML automation via Entra ID Governance and Graph API with SCIM provisioning. Eliminated 18 standing privilege gaps. Achieved 100% JIT access enforcement across 35,000+ users. Zero HIPAA findings across 3 audit cycles.</td>
   </tr>
   <tr>
     <td>🔍</td>
-    <td><strong>Detection Engineering at Scale — Lincoln Financial Group SOC</strong></td>
+    <td><strong>Detection Engineering at Scale : Lincoln Financial Group SOC</strong></td>
     <td>Built KQL correlation rules and UEBA models in Microsoft Sentinel with Tines SOAR automation. Reduced false positives by 40%, MTTR by 30%. Contained 28 high-severity incidents at 96% rate across PCI-DSS regulated infrastructure.</td>
   </tr>
   <tr>
     <td>⚙️</td>
-    <td><strong>DevSecOps Pipeline Transformation — Shift-Left at Aetna</strong></td>
+    <td><strong>DevSecOps Pipeline Transformation : Shift-Left at Aetna</strong></td>
     <td>Embedded Checkov, Trivy, Semgrep, Gitleaks, and OPA policy gates into 10+ GitHub Actions and Azure DevOps pipelines. Achieved 96% pipeline compliance coverage. Zero secrets leakage incidents. 25+ engineering hours saved weekly.</td>
   </tr>
   <tr>
     <td>🤖</td>
-    <td><strong>AI Security Governance Framework — First Enterprise Program at Aetna</strong></td>
+    <td><strong>AI Security Governance Framework : First Enterprise Program at Aetna</strong></td>
     <td>Built enterprise AI security governance covering Claude Code access scoping, LLM prompt injection defense, RAG pipeline security, and shadow AI discovery. Achieved 96% OWASP LLM Top 10 control coverage across 10+ AI applications. Aligned to MITRE ATLAS and NIST AI RMF.</td>
   </tr>
 </table>
@@ -267,7 +267,7 @@ Cloud Security Engineer with <strong>4+ years of experience</strong> across Clou
 <table>
   <tr>
     <td>🛡️</td>
-    <td><strong>Home SOC Lab — Splunk SIEM & MITRE ATT&CK</strong></td>
+    <td><strong>Home SOC Lab : Splunk SIEM & MITRE ATT&CK</strong></td>
     <td>3-VM isolated lab ingesting 6,200+ live events with 4 custom SPL detection rules mapped to MITRE ATT&CK T1110, T1059, T1046. Zero false positives across 30-day run.</td>
   </tr>
   <tr>
